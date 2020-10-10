@@ -18,8 +18,8 @@ main:
   - title: "Talks/Presentations"
     url: /talks/  
         
-  - title: "Blogs"
-    url: /year-archive/
+  # - title: "Blogs"
+  #   url: /year-archive/
     
   - title: "CV"
     url: https://drive.google.com/file/d/18gujMWKmBPPvYDdaoCK0PQWnwqQXwcNV/view?usp=sharing
