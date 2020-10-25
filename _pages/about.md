@@ -20,9 +20,9 @@ Among other things, I am a binge-watcher, music and a food lover.
 📰 <span style="color:gray"><b><font size=4 face=courrier>Jul'20: </font></b></span> <i>Our paper on 'Attributional Robustness Training' gets accepted at ECCV 2020</i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Jun'20: </font></b></span> <i>Our paper on 'Saliency Maps and Adversarial Robustness' gets accepted at ECML-PKDD 2020 (Acceptance ~ 19%)</i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Oct'19: </font></b></span> <i>Our paper on 'Charting the Right Manifold' also gets accepted as spotlight at MetaLearn Workshop, NeurIPS 2019</i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Oct'19: </font></b></span> <i>Our paper on 'Charting the Right Manifold' gets accepted at WACV 2020</i> <br/>
+📰 <span style="color:gray"><b><font size=4 face=courrier>Oct'19: </font></b></span> <i>Our paper on 'Charting the Right Manifold' gets accepted at WACV 2020</i> 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>More..</summary>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Aug'19: </font></b></span> <i>Our first paper on 'AdvGAN++: Harnessing Latent Layers for Adversary Generation' gets accepted at Neural Architect Workshop, ICCV 2019</i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Mar'19: </font></b></span> <i>Honoured to receive Research Appreciation Award for a project under Prof. Vineeth</i> <br/>
 </details>
