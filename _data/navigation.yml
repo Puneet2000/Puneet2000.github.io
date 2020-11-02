@@ -15,7 +15,7 @@ main:
   - title: "Projects"
     url: /projects/   
 
- - title: "Community Service"
+  - title: "Community Service"
     url: /service/
 
   - title: "Talks/Presentations"
