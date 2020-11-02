@@ -22,14 +22,3 @@ RL Agent that learns to play Doom Deadly Corridor. The Agent is trained using a 
 
 [<span style="color:gray"><b><font size=4> InDepthML</font></b></span>](https://github.com/Puneet2000/In-Depth-ML)<br/>
 This repository contains curated lists of articles /tutorials / blogs / research papers that I came across while exploring machine learning. Can be useful if someone is starting with ML or wants good resources.
-
-[<span style="color:gray"><b><font size=4> GPlotLib</font></b></span>](https://github.com/Puneet2000/GPlotLib)<br/>
-A 2D graph plotter , derivative calculator and expression simplifier for functions y = f(x) using parsers and expression trees.
-
-[<span style="color:gray"><b><font size=4> Network Desktop Manager</font></b></span>](https://github.com/Puneet2000/Network-Desktop-Mangaer)<br/>
-A network desktop manager using sockets that can be used to view clients screen and control them from server side. we can also retreive information like runing process , open ports , system hardware details of client. Remote desktop locking also included.
-
-[<span style="color:gray"><b><font size=4> CNetworks</font></b></span>](https://github.com/Puneet2000/CNetworks)<br/>
-CNetworks is my networking repo which currently consists of two projects. *Port scanner* - a TCP SYN , TCP CONNECT , UDP port scanner. *miniVPN* - a VPN implemented through tun/tap virtual interface. The whole code is written entirely in C language using unix networking libraries.
-
-
