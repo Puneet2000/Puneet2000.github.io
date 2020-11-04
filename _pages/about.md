@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 
-A final year Computer Science Undergraduate at [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/), I am a member of [Machine Learning and Vision Group of IITH](https://lab1055.github.io/) headed by [Dr. Vineeth Balasubramaninan](https://www.iith.ac.in/~vineethnb/index.html) and have around 2+ years of research experience in Computer Vision. I also worked as a Summer Research Intern at Adobe MDSR Labs, Noida for two consecutive years (2019-2020). In these years, I have been involved in many deep learning projects, which have been published in following [conferences and workshops](https://puneet2000.github.io//publications/). I have been(am) a considerate reviewer/subreviewer for following [conferences and journals](https://puneet2000.github.io/service/). My current research area/interest includes *Generative Adversarial Networks, Adversarial Machine Learning, Uncertainty, Few-Shot/Zero-Shot learning, and Interpretable Machine Learning*. I am actively looking for research collaborations and interactive opportunities in Machine/Deep Learning conferences/schools/events. 
-
-Among other things, I am a binge-watcher, music and a food lover.
+I am a final year Computer Science Undergraduate at [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) and member of [Machine Learning and Vision Group](https://lab1055.github.io/), headed by [Dr. Vineeth Balasubramaninan](https://www.iith.ac.in/~vineethnb/index.html) I have around 2+ years of research experience in Computer Vision. I also worked as a Summer Research Intern at Adobe MDSR Labs, Noida for two consecutive years (2019-2020). In these years, I have been involved in many deep learning projects, which have been published in following [conferences and workshops](https://puneet2000.github.io//publications/). I am (have been) reviewer/subreviewer for following [conferences and journals](https://puneet2000.github.io/service/). 
+**My current research area/interest includes** *Generative Adversarial Networks, Adversarial Machine Learning, Uncertainty, Few-Shot/Zero-Shot learning, and Interpretable Machine Learning*. 
+I am actively looking for research collaborations and interactive opportunities in Machine/Deep Learning conferences/schools/events. Among other things, I am a binge-watcher, music and a food lover.
 
 # News
 <!-- <marquee direction = "up" onmouseover="this.stop();" onmouseout="this.start();">	 -->
+📰 <span style="color:gray"><b><font size=4 face=courrier>Oct'20: </font></b></span> <i>Serving as Moderator for Machine Intellingence Group under IIT Hyderabad ACM Student Chapter.</i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Aug'20: </font></b></span> <i>Offered an exlusive top 10% spot at International Machine Learning Summer School, Skoltech. </i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Aug'20: </font></b></span> <i>Selected for first ever Google Research India - AI Summer School</i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Jul'20: </font></b></span> <i>Our paper on 'Attributional Robustness Training' gets accepted at ECCV 2020</i> <br/>
