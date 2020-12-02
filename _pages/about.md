@@ -15,6 +15,7 @@ I am actively looking for research collaborations and interactive opportunities 
 
 # News
 <!-- <marquee direction = "up" onmouseover="this.stop();" onmouseout="this.start();">	 -->
+📰 <span style="color:gray"><b><font size=4 face=courrier>Nov-Dec'20: </font></b></span> <i>Selected to attend SOCML 2020 session on Generative Models.</i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Oct'20: </font></b></span> <i>Serving as Moderator for Machine Intellingence Group under IIT Hyderabad ACM Student Chapter.</i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Aug'20: </font></b></span> <i>Offered an exlusive top 10% spot at International Machine Learning Summer School, Skoltech. </i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Aug'20: </font></b></span> <i>Selected for first ever Google Research India - AI Summer School</i> <br/>
