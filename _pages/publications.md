@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2020
+
 <span style="color:gray"><b><u><font size=4> Attributional Robustness Training using Input-Gradient Spatial Alignment</font></u></b></span> \
 *Mayank Singh, Nupur Kumari, Puneet Mangla, Abhishek Sinha, Vineeth N Balasubramanian, Balaji Krishnamurthy* \
 Published in *Proceedings of European Conference on Computer Vision **(ECCV) 2020*** \
@@ -20,6 +22,8 @@ Published in *Proceedings of IEEE Winter Conference on Applications of Computer 
 Also accepted in ***NeurIPS 2020 - MetaLearn Workshop*** \
 [Paper](https://arxiv.org/abs/1907.12087) | [Code](https://github.com/nupurkmr9/S2M2_fewshot)
 <hr size=1 />
+
+## 2019
 <span style="color:gray"><b><u><font size=4> AdvGAN++ : Harnessing latent layers for adversary generation </font></u></b></span> \
 *Puneet Mangla, Surgan Jandial, Sakshi Varshney, Vineeth N Balasubramanian* \
 Published in *Proceedings of **Neural Architects Workshop, ICCV 2019*** \
