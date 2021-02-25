@@ -13,7 +13,7 @@ Published in *Proceedings of European Conference on Computer Vision **(ECCV) 202
 <span style="color:gray"><b><u><font size=4> On Saliency Maps and Adversarial Robustness </font></u></b></span> \
 *Puneet Mangla, Vedant Singh, Vineeth N Balasubramanian* \
 Published in *Proceedings of European Conference of Machine Learning and Principles and Practice of Knowledge Discovery in Databases **(ECML-PKDD) 2020*** \
-[Paper]('https://arxiv.org/abs/2006.07828) | [Code](https://github.com/Puneet2000/SAT_ECML2020)
+[Paper](https://arxiv.org/abs/2006.07828) | [Code](https://github.com/Puneet2000/SAT_ECML2020)
 <hr size=1 />
 <span style="color:gray"><b><u><font size=4> Charting the Right Manifold: Manifold Mixup for Few-shot Learning </font></u></b></span> \
 *Puneet Mangla, Mayank Singh, Abhishek Sinha, Nupur Kumari, Vineeth N Balasubramanian, Balaji Krishnamurthy* \
