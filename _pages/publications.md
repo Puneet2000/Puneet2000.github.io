@@ -7,8 +7,8 @@ author_profile: true
 ## 2021
 <span style="color:gray"><b><u><font size=4> On the Benefits of Defining Vicinal Distributions in Latent Space</font></u></b></span> \
 *Puneet Mangla, Vedant Singh, Shreyas Jayant Havaldar, Vineeth N Balasubramanian* \
-Accepted at ***Generalization beyond the training distribution in brains and machines Workshop, ICLR 2021*** \
-Accepted at ***Robust and Reliable Machine Learning in the Real World Workshop, ICLR 2021*** \
+Accepted (Oral) at ***Robust and Reliable Machine Learning in the Real World Workshop, ICLR 2021*** [LINK](https://sites.google.com/connect.hku.hk/robustml-2021/home) \
+Accepted (Abstract) at ***Generalization beyond the training distribution in brains and machines Workshop, ICLR 2021*** [LINK](https://iclr2021generalization.github.io/) \
 [Paper](https://arxiv.org/abs/2003.06566)
 <hr size=1 />
 
@@ -26,7 +26,7 @@ Published in *Proceedings of European Conference of Machine Learning and Princip
 <span style="color:gray"><b><u><font size=4> Charting the Right Manifold: Manifold Mixup for Few-shot Learning </font></u></b></span> \
 *Puneet Mangla, Mayank Singh, Abhishek Sinha, Nupur Kumari, Vineeth N Balasubramanian, Balaji Krishnamurthy* \
 Published in *Proceedings of IEEE Winter Conference on Applications of Computer Vision **(WACV) 2020*** \
-Also accepted in ***NeurIPS 2020 - MetaLearn Workshop*** \
+Also accepted (Spotlight) at ***NeurIPS 2020 - MetaLearn Workshop*** \
 [Paper](https://arxiv.org/abs/1907.12087) | [Code](https://github.com/nupurkmr9/S2M2_fewshot)
 <hr width=5 />
 

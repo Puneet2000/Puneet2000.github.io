@@ -14,7 +14,7 @@ I am actively looking for research collaborations and interactive opportunities 
 
 # News
 <!-- <marquee direction = "up" onmouseover="this.stop();" onmouseout="this.start();">	 -->
-📰 <span style="color:gray"><b><font size=4 face=courrier>Mar'20: </font></b></span> <i>Our work on 'On the Benefits of Defining Vicinal Distributions in Latent Space' accepted at RobustML and Generalization beyond the training distribution workshops, ICLR 2021</i> <br/>
+📰 <span style="color:gray"><b><font size=4 face=courrier>Mar'20: </font></b></span> <i>Our work on 'On the Benefits of Defining Vicinal Distributions in Latent Space' accepted at ICLR 2021 workshops on RobustML (as Oral) and Generalization beyond the training distribution (Abstract) </i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Nov-Dec'20: </font></b></span> <i>Selected to attend SOCML 2020 session on Generative Models.</i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Oct'20: </font></b></span> <i>Serving as Moderator for Machine Intellingence Group under IIT Hyderabad ACM Student Chapter.</i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Aug'20: </font></b></span> <i>Offered an exlusive top 10% spot at International Machine Learning Summer School, Skoltech. </i> <br/>
