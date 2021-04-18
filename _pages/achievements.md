@@ -4,6 +4,14 @@ title: "Achievements"
 permalink: /achievements/
 author_profile: true
 ---
+## 2021
+- <span style="color:gray"><b><font size=4> <u>Grand Prize Winner, ClassiFicon Hackathon 2021 </u></font></b></span> <br/> 
+<span style="color:gray"><b><font size=4 face=courrier>April 2021 </font></b></span><br/>
+Won a grand cash prize of INR 25K in ClassiFicon Hackathon 2021 organized by [Epoch, IIT Hyderabad](https://github.com/IITH-Epoch) and [I'm beside you](https://www.imbesideyou.com/)
+
+- <span style="color:gray"><b><font size=4><u>Quantel's Mentor of the Month </u></font></b></span> <br/> 
+<span style="color:gray"><b><font size=4 face=courrier>April 2021 </font></b></span><br/>
+Titled as Quantel's Mentor of the Month for taking maximum counselling sessions in month of March.
 
 ## 2020
 - <span style="color:gray"><b><font size=4> <u>Exclusive Top 10% spot, Skoltech MLSS </u></font></b></span> <br/> 
