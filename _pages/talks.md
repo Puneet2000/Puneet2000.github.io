@@ -11,5 +11,6 @@ author_profile: true
 - *Charting the Right Manifold: Manifold Mixup for Few-Shot Learning* - Presented at International Summer School for Machine Learning [(SMILES)](https://smiles.skoltech.ru/poster-presentations), Skoltech, August 2020
 
 # Others
-- Hosted *Episode 2 of CS101 (One-on-One) podcast on Competitive Programming*, October 2020 [(Link)](https://youtu.be/6WSLi6HKp8Y)
 - Invited at IIIT Raichur's Technovation to talk about AI Research, May 2021 [(Link)](https://youtu.be/6WSLi6HKp8Y)
+- Hosted *Episode 1 of ACM IIT Hyderabad's ResearchConnect*, November 2020 [(Link)](https://www.youtube.com/watch?v=ZryuXmWiqeI&list=PLG7fKMdRUJT8CaHNOJB0q3S-jCNy6SXnQ)
+- Hosted *Episode 2 of CS101 (One-on-One) podcast on Competitive Programming*, October 2020 [(Link)](https://youtu.be/6WSLi6HKp8Y)
