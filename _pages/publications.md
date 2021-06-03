@@ -7,7 +7,7 @@ author_profile: true
 ## 2021
 <span style="color:gray"><b><u><font size=4> On the Benefits of Defining Vicinal Distributions in Latent Space</font></u></b></span> \
 *Puneet Mangla, Vedant Singh, Shreyas Jayant Havaldar, Vineeth N Balasubramanian* \
-Accepted as at ***Robust and Reliable Machine Learning Workshop, ICLR 2021*** (Oral), ***Generalization beyond the training distribution Workshop, ICLR 2021*** and ***Workshop on Adversarial Machine Learning, CVPR 2021 *** \
+Accepted as at ***Robust and Reliable Machine Learning Workshop, ICLR 2021*** (Oral), ***Generalization beyond the training distribution Workshop, ICLR 2021*** and ***Workshop on Adversarial Machine Learning, CVPR 2021*** \
 [Paper](https://arxiv.org/abs/2003.06566)
 <hr size=1 />
 
