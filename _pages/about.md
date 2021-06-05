@@ -14,7 +14,7 @@ I am actively looking for research collaborations and interactive opportunities 
 
 # News
 <!-- <marquee direction = "up" onmouseover="this.stop();" onmouseout="this.start();">	 -->
-📰 <span style="color:gray"><b><font size=4 face=courrier>Mar'21: </font></b></span> <i>Our work on 'On the Benefits of Defining Vicinal Distributions in Latent Space' awarded as Best Paper at Workshop on Adversarial Machine Learning, CVPR 2021 </i> <br/>
+📰 <span style="color:gray"><b><font size=4 face=courrier>Jun'21: </font></b></span> <i>Our work on 'On the Benefits of Defining Vicinal Distributions in Latent Space' awarded as Best Paper at Workshop on Adversarial Machine Learning, CVPR 2021 </i> <br/>
 📰 <span style="color:gray"><b><font size=4 face=courrier>Apr'21: </font></b></span> <i> Won grand cash price of INR 25K in ClassiFicon Hackathon 2021 organized by [I'm beside you](https://www.imbesideyou.com/). </i> <br/>		
 📰 <span style="color:gray"><b><font size=4 face=courrier>Apr'21: </font></b></span> <i> Titled [Quantel's](https://quantel.in/) Mentor of the Month for taking maximum counselling sessions in month of March. </i> <br/>	
 📰 <span style="color:gray"><b><font size=4 face=courrier>Mar'21: </font></b></span> <i>Our work on 'On the Benefits of Defining Vicinal Distributions in Latent Space' accepted at ICLR 2021 workshops on RobustML (as Oral) and Generalization beyond the training distribution (Abstract) </i> <br/>
