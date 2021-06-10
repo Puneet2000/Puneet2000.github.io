@@ -22,5 +22,5 @@ main:
   - title: "CV"
     url: https://drive.google.com/file/d/18gujMWKmBPPvYDdaoCK0PQWnwqQXwcNV/view?usp=sharing
 
-  - title: "Tweets"
-    url: /tweets/ 
+  # - title: "Tweets"
+  #   url: /tweets/ 
