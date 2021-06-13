@@ -6,6 +6,13 @@ author_profile: true
 ---
 <head>
 <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+<STYLE>a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+} </STYLE>
 </head>
 
 ## 2021
