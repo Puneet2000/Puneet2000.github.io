@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## 2021
+- <span style="color:gray"><b><font size=4> <i>Best Paper Award, CVPR 2021 AML-CV Workshop </i></font></b></span> - <span style="color:gray"><b><font size=4 face=courrier>June 2021</font></b></span><br/>
+Received Best Paper Award for our work - "On Benifits of Defining Vicinal Distributions in Latent Space" at CVPR 2021 Workshop on [Adversarial Machine
+Learning in Real-World Computer Vision](https://aisecure-workshop.github.io/amlcvpr2021/). 
 - <span style="color:gray"><b><font size=4> <i>Grand Prize Winner, ClassiFicon Hackathon 2021 </i></font></b></span> - <span style="color:gray"><b><font size=4 face=courrier>April 2021 </font></b></span><br/>
 Won a grand cash prize of INR 25K in ClassiFicon Hackathon 2021 organized by [Epoch, IIT Hyderabad](https://github.com/IITH-Epoch) and [I'm beside you](https://www.imbesideyou.com/)
 - <span style="color:gray"><b><font size=4><i>Quantel's Mentor of the Month </i></font></b></span> - <span style="color:gray"><b><font size=4 face=courrier>April 2021 </font></b></span><br/>

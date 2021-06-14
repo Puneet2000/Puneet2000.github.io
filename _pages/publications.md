@@ -12,7 +12,8 @@ author_profile: true
 
 a:visited {
   text-decoration: none;
-} </STYLE>
+}
+ </STYLE>
 </head>
 
 ## 2021
