@@ -16,7 +16,7 @@ for a research project done under the supervision of Prof. Vineeth Balasubramani
 - <span style="color:gray"><b><font size=4><i>Academic Excellence Award, IIT Hyderabad </i></font></b></span> - <span style="color:gray"><b><font size=4 face=courrier>Feburary 2018</font></b></span><br/>
 excellence award for highest SGPA in CSE 2k17 batch.
 
-# Acheivements
+# Achievements
 - <span style="color:gray"><b><font size=4> <i>Grand Prize Winner, ClassiFicon Hackathon 2021 </i></font></b></span> - <span style="color:gray"><b><font size=4 face=courrier>April 2021 </font></b></span><br/>
 Won a grand cash prize of INR 25K in ClassiFicon Hackathon 2021 organized by [Epoch, IIT Hyderabad](https://github.com/IITH-Epoch) and [I'm beside you](https://www.imbesideyou.com/)
 - <span style="color:gray"><b><font size=4> <i>Exclusive Top 10% spot, Skoltech MLSS </i></font></b></span> - <span style="color:gray"><b><font size=4 face=courrier>August 2020 </font></b></span><br/>
