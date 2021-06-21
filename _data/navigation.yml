@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Patents"
-    url: /patents/
+  # - title: "Patents"
+  #   url: /patents/
 
   - title: "Awards"
     url: /achievements/  
@@ -15,8 +15,8 @@ main:
   - title: "Extracurricular"
     url: /extracurricular/
 
-  - title: "Appearance"
-    url: /talks/  
+  # - title: "Appearance"
+  #   url: /talks/  
         
     
   - title: "CV"
