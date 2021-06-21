@@ -1,9 +1,14 @@
 ---
 layout: archive
-title: "Awards"
+title: "Patents"
 permalink: /achievements/
 author_profile: true
 ---
+
+- Mayank Singh, Nupur Kumari, **Puneet Mangla**, Balaji Krishnamurthy, *Attributionally Robust Training (ART) for Weakly Supervised Localization*, us P9657-US, Filed
+- **Puneet Mangla**, Mayank Singh, Abhishek Sinha, Nupur Kumari, Balaji Krishnamurthy, *Classifying Digital Images In Few-Shot Tasks Based On Neural Networks Trained Using Manifold Mixup Regularization and Self-Supervision*, us P9195-US, Filed. [(Link)](https://patentimages.storage.googleapis.com/85/34/18/5dc32195b128ce/US20210124993A1.pdf)
+
+# Awards
 - <span style="color:gray"><b><font size=4><i>Research Appreciation Award, IIT Hyderabad </i></font></b></span> - <span style="color:gray"><b><font size=4 face=courrier>June 2021</font></b></span><br/>
 for research works published/done under the supervision of Prof. Vineeth Balasubramanian.
 - <span style="color:gray"><b><font size=4> <i>Best Paper Award, CVPR 2021 AML-CV Workshop </i></font></b></span> - <span style="color:gray"><b><font size=4 face=courrier>June 2021</font></b></span><br/>
