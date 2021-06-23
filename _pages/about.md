@@ -9,27 +9,30 @@ redirect_from:
 ---
 
 
-I am a final year Computer Science Undergraduate at [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) and member of [Machine Learning and Vision Group](https://lab1055.github.io/), headed by [Dr. Vineeth Balasubramaninan](https://www.iith.ac.in/~vineethnb/index.html). I have around 2+ years of research experience in Computer Vision. During these years, I worked as a Summer Research Intern at Adobe MDSR Labs, Noida for two consecutive years (2019-2020) and have been involved in many deep learning projects, which have been published in following [conferences and workshops](https://puneet2000.github.io//publications/). I have also served as reviewer/subreviewer for following [conferences and journals](https://puneet2000.github.io/service/). My current research area/interest includes *Generative Adversarial Networks, Adversarial Machine Learning, Uncertainty, Few-Shot/Zero-Shot learning, and Interpretable Machine Learning*. 
+I am a final year Computer Science Undergraduate at [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) and member of [Machine Learning and Vision Group](https://lab1055.github.io/), headed by [Dr. Vineeth Balasubramaninan](https://www.iith.ac.in/~vineethnb/index.html). I have around 2+ years of research experience in Computer Vision. During these years, I worked as a Summer Research Intern at Adobe MDSR Labs, Noida for two consecutive years (2019-2020) and have been involved in many deep learning projects, which have been published in following [conferences and workshops](https://puneet2000.github.io//publications/). I have also served as reviewer/subreviewer for following [conferences and journals](https://puneet2000.github.io/service/). \
+**Research interests** - *Generative Adversarial Networks, Adversarial Machine Learning, Uncertainty, Few-Shot/Zero-Shot learning, and Interpretable Machine Learning.* \
 I am actively looking for research collaborations and interactive opportunities in Machine/Deep Learning conferences/schools/events. Among other things, I am a binge-watcher, music and a food lover.
 
-# News
-<!-- <marquee direction = "up" onmouseover="this.stop();" onmouseout="this.start();">	 -->
-📰 <span style="color:gray"><b><font size=4 face=courrier>Jun'21: </font></b></span> <i>Honoured to receive Research Appreciation Award for the second time.</i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Jun'21: </font></b></span> <i>Our work on 'On the Benefits of Defining Vicinal Distributions in Latent Space' awarded as Best Paper at Workshop on Adversarial Machine Learning, CVPR 2021 </i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Apr'21: </font></b></span> <i> Won grand cash price of INR 25K in ClassiFicon Hackathon 2021 organized by [I'm beside you](https://www.imbesideyou.com/). </i> <br/>		
-📰 <span style="color:gray"><b><font size=4 face=courrier>Apr'21: </font></b></span> <i> Titled [Quantel's](https://quantel.in/) Mentor of the Month for taking maximum counselling sessions in month of March. </i> <br/>	
-📰 <span style="color:gray"><b><font size=4 face=courrier>Mar'21: </font></b></span> <i>Our work on 'On the Benefits of Defining Vicinal Distributions in Latent Space' accepted at ICLR 2021 workshops on RobustML (as Oral) and Generalization beyond the training distribution (Abstract) </i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Nov-Dec'20: </font></b></span> <i>Selected to attend SOCML 2020 session on Generative Models.</i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Oct'20: </font></b></span> <i>Serving as Moderator for Machine Intellingence Group under IIT Hyderabad ACM Student Chapter.</i> <br/>
+
+<aside class="sidebar" style="position: sticky !important;top: 0;right: 0;width: 100%;margin-right: -350px;padding-left: 0em;padding-top: 1em !important;z-index: 20;"><nav class="toc"><header><h2 class="nav__title"> 📰 News</h2></header><ul class="toc__menu" style="padding-left:1em; padding-right:0.5em; padding-top:0.5em;  text-transform:none;  font-size: 20px;">
+	<li><b>Jun'21:</b> Honoured to receive <b>Research Appreciation Award</b> for the second time.<hr style="margin: 0.5em;"></li>
+	<li><b>Jun'21:</b> Our work on 'On the Benefits of Defining Vicinal Distributions in Latent Space' awarded as <b>Best Paper</b> at <i>Workshop on Adversarial Machine Learning, CVPR 2021</i>. <hr style="margin: 0.5em;"></li>
+	<li><b>Apr'21:</b> Won grand cash price of INR 25K in ClassiFicon Hackathon 2021 organized by I'm Beside You. <hr style="margin: 0.5em;"></li>
+	<li><b>Apr'21:</b>Titled Quantel's <b>Mentor of the Month</b> for taking maximum counselling sessions in month of March. <hr style="margin: 0.5em;"></li>
+	<li><b>Mar'21:</b> Our work on 'On the Benefits of Defining Vicinal Distributions in Latent Space' accepted at <i>ICLR 2021 workshops on RobustML (as Oral) and Generalization beyond the training distribution (Abstract)</i> <hr style="margin: 0.5em;"></li>
+	<li><b>Nov'21:</b> Selected to attend SOCML 2020 session on Generative Models.<hr style="margin: 0.5em;"></li>
+	<li><b>Oct'20:</b>Serving as Moderator for Machine Intellingence Group under IIT Hyderabad ACM Student Chapter.<hr style="margin: 0.5em;"></li>
+	</ul>
+
+<ul class="toc__menu" style="padding-left:1em; padding-right:0.5em; padding-top:0.5em;  text-transform:none; font-size: 20px;">
 <details>
-  <summary>More..</summary>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Aug'20: </font></b></span> <i>Offered an exlusive top 10% spot at International Machine Learning Summer School, Skoltech. </i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Aug'20: </font></b></span> <i>Selected for first ever Google Research India - AI Summer School</i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Jul'20: </font></b></span> <i>Our paper on 'Attributional Robustness Training' gets accepted at ECCV 2020</i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Jun'20: </font></b></span> <i>Our paper on 'Saliency Maps and Adversarial Robustness' gets accepted at ECML-PKDD 2020 (Acceptance ~ 19%)</i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Oct'19: </font></b></span> <i>Our paper on 'Charting the Right Manifold' also gets accepted as spotlight at MetaLearn Workshop, NeurIPS 2019</i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Oct'19: </font></b></span> <i>Our paper on 'Charting the Right Manifold' gets accepted at WACV 2020</i> 
-📰 <span style="color:gray"><b><font size=4 face=courrier>Aug'19: </font></b></span> <i>Our first paper on 'AdvGAN++: Harnessing Latent Layers for Adversary Generation' gets accepted at Neural Architect Workshop, ICCV 2019</i> <br/>
-📰 <span style="color:gray"><b><font size=4 face=courrier>Mar'19: </font></b></span> <i>Honoured to receive Research Appreciation Award for a project under Prof. Vineeth</i> <br/>
-</details>
-<!-- </marquee> -->
+  <summary><b>More..</b></summary>
+<li><b>Aug'20: </b>Offered an exlusive top 10% spot at International Machine Learning Summer School, Skoltech.<hr style="margin: 0.5em;"></li>
+<li><b>Aug'20:</b> Selected for first ever Google Research India - AI Summer School. <hr style="margin: 0.5em;"></li>
+<li><b>Jul'20: </b>Our paper on 'Attributional Robustness Training' gets accepted at <b>ECCV 2020</b>.<hr style="margin: 0.5em;"></li>
+<li><b>Jun'20: </b>Our paper on 'Saliency Maps and Adversarial Robustness' gets accepted at <b>ECML-PKDD 2020</b> (Acceptance ~ 19%).<hr style="margin: 0.5em;"></li>
+<li><b>Oct'19: </b>Our paper on 'Charting the Right Manifold' also gets accepted as spotlight at MetaLearn Workshop, NeurIPS 2019.<hr style="margin: 0.5em;"></li>
+<li><b>Oct'19: </b>Our paper on 'Charting the Right Manifold' gets accepted at <b>WACV 2020</b><hr style="margin: 0.5em;"></li>
+<li><b>Mar'19: </b>Honoured to receive <b>Research Appreciation Award</b> for a project under Prof. Vineeth.<hr style="margin: 0.5em;"></li>
+</details></ul>
+</nav></aside>
