@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a final year Computer Science Undergraduate at [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) and member of [Machine Learning and Vision Group](https://lab1055.github.io/), headed by [Dr. Vineeth Balasubramaninan](https://www.iith.ac.in/~vineethnb/index.html). I have around 2+ years of research experience in Computer Vision. During these years, I worked as a Summer Research Intern at Adobe MDSR Labs, Noida for two consecutive years (2019-2020) and have been involved in many deep learning projects, which have been published in following [conferences and workshops](https://puneet2000.github.io//publications/). I have also served as reviewer/subreviewer for following [conferences and journals](https://puneet2000.github.io/service/). 
+I am currently working on Automated Form Structure Extraction at Adobe Experience Manager (AEM) Forms Team. I received my Computer Science Undergraduate Degree from [Indian Institute of Technology, Hyderabad](https://www.iith.ac.in/) where I was a member of [Machine Learning and Vision Group](https://lab1055.github.io/), headed by [Dr. Vineeth Balasubramaninan](https://www.iith.ac.in/~vineethnb/index.html). During my B.Tech, I worked as a Summer Research Intern at Adobe MDSR Labs, Noida for two consecutive years (2019-2020) and was involved in many deep learning projects, which have been published in following [venues](https://puneet2000.github.io//publications/). I am also an acitve reviewer and have served as (external) reviewer for following [conferences and journals](https://puneet2000.github.io/service/). 
 ### Interests
 - *Robustness*: Adversarial, Attributional, OOD Robustness.
 - *Cross Domain Supervision*: Zero-/One-/Few-Shot Learning, Transfer Learning, Domain Generalization.
@@ -19,6 +19,7 @@ I am actively looking for research collaborations and interactive opportunities 
 
 
 <aside class="sidebar" style="position: sticky !important;top: 0;right: 0;width: 100%;margin-right: -350px;padding-left: 0em;padding-top: 1em !important;z-index: 20;"><nav class="toc"><header><h2 class="nav__title"> 📰 News</h2></header><ul class="toc__menu" style="padding-left:1em; padding-right:0.5em; padding-top:0.5em;  text-transform:none;  font-size: 20px;color:#494e52">
+	<li><b>Jul'21:</b> Joined<b>AEM Forms Team</b> as Member of Technical Staff (Research) <hr style="margin: 0.5em;"></li>
 	<li><b>Jun'21:</b> Honoured to receive <b>Research Appreciation Award</b> for the second time.<hr style="margin: 0.5em;"></li>
 	<li><b>Jun'21:</b> Our work on 'On the Benefits of Defining Vicinal Distributions in Latent Space' awarded as <b>Best Paper</b> at <i>Workshop on Adversarial Machine Learning, CVPR 2021</i>. <hr style="margin: 0.5em;"></li>
 	<li><b>Apr'21:</b> Won grand cash price of INR 25K in ClassiFicon Hackathon 2021 organized by I'm Beside You. <hr style="margin: 0.5em;"></li>
